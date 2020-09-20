@@ -8,6 +8,7 @@
 
 # production
 */build
+*.gradle/
 
 # misc
 .DS_Store
@@ -21,6 +22,9 @@
 */.env.test.local
 */.env.production.local
 /.idea
+*/.idea
+*/.expo-shared
+*/.expo
 
 */package-lock.json
 */*.lock
