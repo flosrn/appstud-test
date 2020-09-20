@@ -1,0 +1,445 @@
+{
+  "message": "Selección del editor",
+  "playlists": {
+    "href": "https://afternoon-waters-49321.herokuapp.com/v1/browse/featured-playlists?timestamp=2020-09-20T07%3A17%3A44&offset=0&limit=20",
+    "items": [
+      {
+        "collaborative": false,
+        "description": "Unwind to these calm classical guitar pieces.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX0jgyAiPl8Af"
+        },
+        "href": "https://afternoon-waters-49321.herokuapp.com/v1/playlists/37i9dQZF1DX0jgyAiPl8Af",
+        "id": "37i9dQZF1DX0jgyAiPl8Af",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000038ed1a5002b96c2ea882541b2",
+            "width": null
+          }
+        ],
+        "name": "Peaceful Guitar",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://afternoon-waters-49321.herokuapp.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU5ODY1NDg1NCwwMDAwMDA3YzAwMDAwMTc0Mzc0MTM3NDkwMDAwMDE2ZDE1MzFlYjZl",
+        "tracks": {
+          "href": "https://afternoon-waters-49321.herokuapp.com/v1/playlists/37i9dQZF1DX0jgyAiPl8Af/tracks",
+          "total": 160
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX0jgyAiPl8Af"
+      },
+      {
+        "collaborative": false,
+        "description": "Enjoy your coffee with this mix of soft songs.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXcxacyAXkQDu"
+        },
+        "href": "https://afternoon-waters-49321.herokuapp.com/v1/playlists/37i9dQZF1DXcxacyAXkQDu",
+        "id": "37i9dQZF1DXcxacyAXkQDu",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000036db94e8662a0253bca7aa275",
+            "width": null
+          }
+        ],
+        "name": "Wake Up and Smell the Coffee",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://afternoon-waters-49321.herokuapp.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTYwMDU4NjIyOCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+        "tracks": {
+          "href": "https://afternoon-waters-49321.herokuapp.com/v1/playlists/37i9dQZF1DXcxacyAXkQDu/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DXcxacyAXkQDu"
+      },
+      {
+        "collaborative": false,
+        "description": "Relax and indulge with beautiful piano pieces",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX4sWSpwq3LiO"
+        },
+        "href": "https://afternoon-waters-49321.herokuapp.com/v1/playlists/37i9dQZF1DX4sWSpwq3LiO",
+        "id": "37i9dQZF1DX4sWSpwq3LiO",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003ca5a7517156021292e5663a6",
+            "width": null
+          }
+        ],
+        "name": "Peaceful Piano",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://afternoon-waters-49321.herokuapp.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTYwMDA5MDA4MiwwMDAwMDBkMDAwMDAwMTc0OGNjZDBiY2IwMDAwMDE2ZDE1NTk1OTFk",
+        "tracks": {
+          "href": "https://afternoon-waters-49321.herokuapp.com/v1/playlists/37i9dQZF1DX4sWSpwq3LiO/tracks",
+          "total": 306
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX4sWSpwq3LiO"
+      },
+      {
+        "collaborative": false,
+        "description": "Get happy with today's dose of feel-good songs!",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX3rxVfibe1L0"
+        },
+        "href": "https://afternoon-waters-49321.herokuapp.com/v1/playlists/37i9dQZF1DX3rxVfibe1L0",
+        "id": "37i9dQZF1DX3rxVfibe1L0",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003aa93fe4e8c2d24fc62556cba",
+            "width": null
+          }
+        ],
+        "name": "Mood Booster",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://afternoon-waters-49321.herokuapp.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTYwMDU4NjIxNCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+        "tracks": {
+          "href": "https://afternoon-waters-49321.herokuapp.com/v1/playlists/37i9dQZF1DX3rxVfibe1L0/tracks",
+          "total": 78
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX3rxVfibe1L0"
+      },
+      {
+        "collaborative": false,
+        "description": "Justin Bieber is on top of the Hottest 50!",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M"
+        },
+        "href": "https://afternoon-waters-49321.herokuapp.com/v1/playlists/37i9dQZF1DXcBWIGoYBM5M",
+        "id": "37i9dQZF1DXcBWIGoYBM5M",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000300f2ccfe317b25180ae06776",
+            "width": null
+          }
+        ],
+        "name": "Today's Top Hits",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://afternoon-waters-49321.herokuapp.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTYwMDQwMTY3OSwwMDAwMDQzOTAwMDAwMTc0OWY1ZmE0ODkwMDAwMDE3NDlkMjU4NTM0",
+        "tracks": {
+          "href": "https://afternoon-waters-49321.herokuapp.com/v1/playlists/37i9dQZF1DXcBWIGoYBM5M/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DXcBWIGoYBM5M"
+      },
+      {
+        "collaborative": false,
+        "description": "Have a quiet morning with this mix of something familiar and something new.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWWzVPEmatsUB"
+        },
+        "href": "https://afternoon-waters-49321.herokuapp.com/v1/playlists/37i9dQZF1DWWzVPEmatsUB",
+        "id": "37i9dQZF1DWWzVPEmatsUB",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000394d851cc78e04406e373f156",
+            "width": null
+          }
+        ],
+        "name": "Mellow Morning",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://afternoon-waters-49321.herokuapp.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTYwMDU4NjI2MiwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+        "tracks": {
+          "href": "https://afternoon-waters-49321.herokuapp.com/v1/playlists/37i9dQZF1DWWzVPEmatsUB/tracks",
+          "total": 70
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWWzVPEmatsUB"
+      },
+      {
+        "collaborative": false,
+        "description": "Mode: Turnt",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWY4xHQp97fN6"
+        },
+        "href": "https://afternoon-waters-49321.herokuapp.com/v1/playlists/37i9dQZF1DWY4xHQp97fN6",
+        "id": "37i9dQZF1DWY4xHQp97fN6",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003d83645651c54f88635606a3d",
+            "width": null
+          }
+        ],
+        "name": "Get Turnt",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://afternoon-waters-49321.herokuapp.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTYwMDQ3MTM5OCwwMDAwMDFjZTAwMDAwMTc0YTM4Nzc3NDUwMDAwMDE3NDU2YjQwNmQ2",
+        "tracks": {
+          "href": "https://afternoon-waters-49321.herokuapp.com/v1/playlists/37i9dQZF1DWY4xHQp97fN6/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWY4xHQp97fN6"
+      },
+      {
+        "collaborative": false,
+        "description": "Chill instrumental beats. Cover / Artwork: Trina Richie Hines for lōland",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX0SM0LYsmbMT"
+        },
+        "href": "https://afternoon-waters-49321.herokuapp.com/v1/playlists/37i9dQZF1DX0SM0LYsmbMT",
+        "id": "37i9dQZF1DX0SM0LYsmbMT",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000031a64a7bbdb2cd2e210bbef8b",
+            "width": null
+          }
+        ],
+        "name": "Jazz Vibes",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://afternoon-waters-49321.herokuapp.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTYwMDQ0MzkzMywwMDAwMDIwYjAwMDAwMTc0YTFlNDYyNmIwMDAwMDE3NDliZDJkMzQx",
+        "tracks": {
+          "href": "https://afternoon-waters-49321.herokuapp.com/v1/playlists/37i9dQZF1DX0SM0LYsmbMT/tracks",
+          "total": 259
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX0SM0LYsmbMT"
+      },
+      {
+        "collaborative": false,
+        "description": "The great masterpieces of the genre.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX6xOPeSOGone"
+        },
+        "href": "https://afternoon-waters-49321.herokuapp.com/v1/playlists/37i9dQZF1DX6xOPeSOGone",
+        "id": "37i9dQZF1DX6xOPeSOGone",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000038f7cea2939220d6a326924fa",
+            "width": null
+          }
+        ],
+        "name": "Soft Rock",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://afternoon-waters-49321.herokuapp.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTYwMDU4NjI0MCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+        "tracks": {
+          "href": "https://afternoon-waters-49321.herokuapp.com/v1/playlists/37i9dQZF1DX6xOPeSOGone/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX6xOPeSOGone"
+      },
+      {
+        "collaborative": false,
+        "description": "Stay relaxed with these low-key beats and instrumentals.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX3qCx5yEZkcJ"
+        },
+        "href": "https://afternoon-waters-49321.herokuapp.com/v1/playlists/37i9dQZF1DX3qCx5yEZkcJ",
+        "id": "37i9dQZF1DX3qCx5yEZkcJ",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000399de7c5754e7b519f3a1db11",
+            "width": null
+          }
+        ],
+        "name": "Mellow Beats",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://afternoon-waters-49321.herokuapp.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTYwMDU4NjI1MywwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+        "tracks": {
+          "href": "https://afternoon-waters-49321.herokuapp.com/v1/playlists/37i9dQZF1DX3qCx5yEZkcJ/tracks",
+          "total": 80
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX3qCx5yEZkcJ"
+      },
+      {
+        "collaborative": false,
+        "description": "A chill mix of new favorites and classic versions. Cover:  <a href=\"https://open.spotify.com/artist/3OVmFlXlOUDDxOxnV59M9D?si=5WrNFERNQWugKqvKSO4yRQ\">Irish Women in Harmony</a>",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXmlLSKkfdAk"
+        },
+        "href": "https://afternoon-waters-49321.herokuapp.com/v1/playlists/37i9dQZF1DWXmlLSKkfdAk",
+        "id": "37i9dQZF1DWXmlLSKkfdAk",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003f6d3028b0bf0bd439d8a3845",
+            "width": null
+          }
+        ],
+        "name": "Acoustic Covers",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://afternoon-waters-49321.herokuapp.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU5OTc4MjUyNiwwMDAwMDA2YzAwMDAwMTc0N2E3ODFlMTMwMDAwMDE3MmM5ODdlNTRi",
+        "tracks": {
+          "href": "https://afternoon-waters-49321.herokuapp.com/v1/playlists/37i9dQZF1DWXmlLSKkfdAk/tracks",
+          "total": 129
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWXmlLSKkfdAk"
+      },
+      {
+        "collaborative": false,
+        "description": "That special feeling of being calm, happy and relaxed at the same time.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX4bSrsRWE9cd"
+        },
+        "href": "https://afternoon-waters-49321.herokuapp.com/v1/playlists/37i9dQZF1DX4bSrsRWE9cd",
+        "id": "37i9dQZF1DX4bSrsRWE9cd",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003e05418b847fe9720badea0e5",
+            "width": null
+          }
+        ],
+        "name": "Bliss",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://afternoon-waters-49321.herokuapp.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTYwMDU4NjI0MiwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+        "tracks": {
+          "href": "https://afternoon-waters-49321.herokuapp.com/v1/playlists/37i9dQZF1DX4bSrsRWE9cd/tracks",
+          "total": 74
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX4bSrsRWE9cd"
+      }
+    ],
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 12
+  }
+}
