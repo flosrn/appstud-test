@@ -27,16 +27,18 @@ export default function PlaylistsScreen({ navigation }: Props) {
   const [selectedId, setSelectedId] = React.useState(null);
 
   React.useEffect(() => {
-    const fetchData = async () => {
-      const response = await axios.get(
-        `${API_ENDPOINT}/v1/browse/featured-playlists`
-      );
-      setPlaylists(response.data.playlists.items);
-    };
-    fetchData();
+    (async () => {
+      try {
+        const response = await axios.get(
+          `${API_ENDPOINT}/v1/browse/featured-playlists`
+        );
+        setPlaylists(response.data.playlists.items);
+      }
+      catch(e) {
+        console.log(e)
+      }
+    })();
   });
-
-  // console.log("playlists : ", JSON.stringify(playlists));
 
   const renderItem = ({ item }: any) => {
     return (
